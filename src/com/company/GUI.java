@@ -49,7 +49,7 @@ public class GUI extends JFrame{
         //sets default difficulty to medium
         difficulty = "m";
         //initialize JFrame
-        setTitle("Minesweeper\uD83D\uDCA3");
+        setTitle("twiafh plays Minesweeper\uD83D\uDCA3");
         setLayout(cl);
         //buttons action listener
         onClick = new AbstractAction() {
